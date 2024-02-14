@@ -1,0 +1,4 @@
+#dubbo:
+#  application:
+#    name: app
+#    qos-port: 2222
